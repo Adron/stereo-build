@@ -1,6 +1,6 @@
 # Adron's Home Stereo Build
 
-This site is here, the repository page is here, the YouTube unboxing and build of the stereo is here. 🤘🏻
+This site is [here](https://adron.github.io/stereo-build/), the repository page is [here](https://github.com/Adron/stereo-build), the YouTube unboxing and build of the stereo is here. 🤘🏻
 
 The stereo build I've put together in 2023, as I delved back into physical medium music again with vinyl &amp; CDs is included in detail in this repository.
 
