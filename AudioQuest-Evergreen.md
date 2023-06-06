@@ -1,0 +1,1 @@
+The following details collected from this page https://www.crutchfield.com/p_703EGRR2M/AudioQuest-Evergreen-2-meters-6-6-feet.html from the original purchase.

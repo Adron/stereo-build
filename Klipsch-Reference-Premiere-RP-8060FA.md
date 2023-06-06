@@ -1,0 +1,1 @@
+The following details collected from this page https://www.crutchfield.com/p_714RP8060W/Klipsch-Reference-Premiere-RP-8060FA-Walnut.html from the original purchase.

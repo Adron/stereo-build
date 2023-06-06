@@ -1,0 +1,1 @@
+The following details collected from this page https://www.crutchfield.com/p_325VULRKES/Pangea-Audio-Vulcan-Audio-Rack-Espresso-with-Black-Posts.html from the original purchase.

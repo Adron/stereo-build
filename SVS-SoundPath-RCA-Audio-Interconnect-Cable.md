@@ -1,0 +1,1 @@
+The following details collected from this page https://www.crutchfield.com/p_946SPRCA3M/SVS-SoundPath-RCA-Audio-Interconnect-Cable-3-meters-9-8-feet.html from the original purchase.

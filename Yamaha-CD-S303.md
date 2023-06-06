@@ -1,0 +1,1 @@
+The following details collected from this page https://www.crutchfield.com/p_022CDS303/Yamaha-CD-S303.html from the original purchase.

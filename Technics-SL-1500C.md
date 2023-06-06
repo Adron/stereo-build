@@ -1,0 +1,1 @@
+The following details collected from this page https://www.crutchfield.com/p_133SL1500S/Technics-SL-1500C-Silver.html from the original purchase.

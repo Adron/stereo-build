@@ -1,0 +1,1 @@
+The following details collected from this page https://www.crutchfield.com/p_714R112SW/Klipsch-Reference-R-112SW.html from the original purchase.

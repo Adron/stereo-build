@@ -1,0 +1,1 @@
+The following details collected from this page https://www.crutchfield.com/p_007CBB6/Crutchfield-Speaker-Wire-6-feet.html from the original purchase.
