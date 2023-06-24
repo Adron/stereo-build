@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Yamaha-CD-S303.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Yamaha-CD-S303.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Yamaha-CD-S303.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Yamaha-CD-S303.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "4132cf0b49e576b4",
   "lastOpenFiles": [
+    "README.md",
     "Klipsch-Reference-Premiere-RP-8060FA.md",
     "Klipsch-Reference-R-112SW.md",
-    "README.md",
     "SVS-SoundPath-RCA-Audio-Interconnect-Cable.md",
     "Technics-SL-1500C.md",
     "Crutchfield-Speaker-Wire.md",
