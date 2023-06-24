@@ -2,7 +2,7 @@
 
 This site is [here](https://adron.github.io/stereo-build/), the repository page is [here](https://github.com/Adron/stereo-build), the YouTube unboxing and build of the stereo is here. 🤘🏻
 
-The stereo build I've put together in 2023, as I delved back into physical medium music again with vinyl &amp; CDs is included in detail in this repository.
+The stereo build I've put together in 2023, as I delved back into physical medium music again with vinyl & CDs is included in detail in this repository.
 
 Mission: I'd never really collected or owned but maybe 2-3 records in my entire life. Even years ago when I collected CDs and at one time even lnoger ago, cassettes, I never stumbled into records. With this build however I wanted two things. First, I wanted to be able to play the CDs that I had - several being collectors CDs that I'd not been able to listen to in ages and ages, and music that isn't available on Spotify or such!!. Second, I wanted to delve into the world of vinyls.
 

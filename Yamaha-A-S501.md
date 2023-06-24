@@ -10,26 +10,27 @@ The A-S501 has six pairs of analog RCA inputs, including a phono input for conne
 
 ### Product highlights:
 
-85 watts x 2 channels into 8 ohms (20-20,000 Hz) at 0.019% THD
-4-ohm capability allows use with a wide range of speakers
-ToP-ART (Total Purity Audio Reproduction Technology) combines a symmetrical circuit layout along with anti-resonance construction for high-quality sound with minimal distortion
-Pure Direct mode allows music signals to travel the shortest possible route through the unit's circuitry for cleaner sound
-optical and coaxial digital audio inputs
-6 RCA audio inputs, including MM (moving magnet) phono input
-subwoofer output
-two pairs of RCA recording outputs
-signal-to-noise ratio: 99 dB (CD)
-two pairs of gold-plated binding-post speaker connectors with front-panel switching
-1/4" headphone jack
-remote control
-17-1/8"W x 6"H x 15-1/4"D
-weight: 22.7 lbs.
-warranty: 2 years
-Our 60-day money-back guarantee
-MFR # A-S501BL
+* 85 watts x 2 channels into 8 ohms (20-20,000 Hz) at 0.019% THD
+* 4-ohm capability allows use with a wide range of speakers
+* ToP-ART (Total Purity Audio Reproduction Technology) combines a symmetrical circuit layout along with anti-resonance construction for high-quality sound with minimal distortion
+* Pure Direct mode allows music signals to travel the shortest possible route through the unit's circuitry for cleaner sound
+* optical and coaxial digital audio inputs
+* 6 RCA audio inputs, including MM (moving magnet) phono input
+* subwoofer output
+* two pairs of RCA recording outputs
+* signal-to-noise ratio: 99 dB (CD)
+* two pairs of gold-plated binding-post speaker connectors with front-panel switching
+* 1/4" headphone jack
+* remote control
+* 17-1/8"W x 6"H x 15-1/4"D
+* weight: 22.7 lbs.
+* warranty: 2 years
+* Our 60-day money-back guarantee
+* MFR # A-S501BL
 
 ### What's in the box:
-Yamaha A-S501 owner's manual
+
+* Yamaha A-S501 owner's manual
 * Stereo integrated amplifier
 * Remote control (RAS13)
 * 2 "AA" batteries
@@ -41,7 +42,9 @@ Yamaha A-S501 owner's manual
 ### More Details
 
 ## Features & specs
+
 **Performance Specs**
+
 Watts RMS per Channel (8-ohms)	85
 Watts RMS per Channel (6-ohms)	100
 Watts RMS per Channel (4-ohms)	Not given
@@ -52,11 +55,15 @@ Amplifier Class	AB
 Signal to Noise Ratio	99
 DAC Bit Depth	24-bit
 DAC Sample Rate	192kHz
+
 **Digital Music Features**
+
 Built-in DAC (Digital to Analog Converter)	Yes
 Bluetooth	No
 Wi-Fi	N/A
+
 **Connections**
+
 Total Analog Inputs	6
 Phono Input	Yes
 Optical Digital Inputs	1
@@ -68,7 +75,9 @@ Home Theater Bypass	No
 Pre-out/Main-in Loop	No
 Headphone Output	1/4"
 Removable Power Cord	No
+
 **Streaming Compatibility**
+
 Apple AirPlay	No
 Apple AirPlay 2	No
 DTS Play-Fi	No
@@ -76,17 +85,22 @@ Chromecast built-in	No
 Roon	No
 HEOS	No
 BluOS	No
+
 **Dimensions and Warranty**
+
 Width (inches)	17-1/8
 Height (inches)	6
 Depth (inches)	15-7/16
 Weight (pounds)	22.7
 Parts Warranty	2 Years
 Labor Warranty	2 Years
+
 **The Yamaha A-S501 replaces these items:**
+
 Yamaha A-S500
 
 ### Features
+
 "Natural Sound" Concept: Yamaha, with a long history of over 125 years as a musical instrument maker, also has a high reputation for HiFi components. Yamaha's A-S501 integrated amplifier takes advantage of this rich experience and high technological expertise. Based on the concept of "Natural Sound", for reproducing all music as it really sounds, and built with scrupulous care from circuit design to basic sound production, the A-S501 reproduces high sound quality and musically rich sound.
 
 Proprietary Yamaha Technologies: The Yamaha AS-501 integrated amplifier employs proprietary Yamaha technologies for optimum performance and sound reproductions.
