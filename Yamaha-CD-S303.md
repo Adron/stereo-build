@@ -161,8 +161,8 @@ The laser pickup is isolated on a floating mechanism to reduce interference from
 
 **Detachable AC Power Cord:** The Yamaha CD-S303 comes with a 58" detachable AC power cord (C7) that will need to be plugged into the back of the CD player and into an AC wall outlet or surge protector (sold separately - see Accessories Tab).
 
-![[g022CDS303-F.jpg]]
+![CD Player](images/yamaha-cd/g022CDS303-F.jpg)
 
-![[g022CDS303-M.jpg]]
+![CD Player](images/yamaha-cd/g022CDS303-M.jpg)
 
-![[g022CDS303-o_other0.jpg]]
+![CD Player](images/yamaha-cd/g022CDS303-o_other0.jpg)
