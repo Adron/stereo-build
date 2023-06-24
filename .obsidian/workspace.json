@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SVS-SoundPath-RCA-Audio-Interconnect-Cable.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SVS-SoundPath-RCA-Audio-Interconnect-Cable.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SVS-SoundPath-RCA-Audio-Interconnect-Cable.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SVS-SoundPath-RCA-Audio-Interconnect-Cable.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,27 +148,27 @@
   },
   "active": "4132cf0b49e576b4",
   "lastOpenFiles": [
-    "g946SPRCA3M-o_other1.jpg",
-    "g946SPRCA3M-o_other0.jpg",
-    "Technics-SL-1500C.md",
-    "Yamaha-A-S501.md",
-    "Yamaha-CD-S303.md",
-    "g022CDS303-o_other0.jpg",
-    "g022CDS303-M.jpg",
-    "g022CDS303-F.jpg",
-    "SVS-SoundPath-RCA-Audio-Interconnect-Cable.md",
-    "README.md",
-    "Pangea-Audio-Vulcan-Audio-Rack.md",
-    "Klipsch-Reference-R-112SW.md",
     "Klipsch-Reference-Premiere-RP-8060FA.md",
+    "Klipsch-Reference-R-112SW.md",
+    "README.md",
+    "SVS-SoundPath-RCA-Audio-Interconnect-Cable.md",
+    "Technics-SL-1500C.md",
     "Crutchfield-Speaker-Wire.md",
     "AudioQuest-Evergreen.md",
+    "images/cords/g946SPRCA3M-o_other0.jpg",
+    "images/yamaha-cd/g022CDS303-o_other0.jpg",
+    "images/cords/g946SPRCA3M-o_other1.jpg",
+    "images/yamaha-cd/g022CDS303-M.jpg",
+    "images/yamaha-cd/g022CDS303-F.jpg",
+    "images/yamaha-a-S501/g022AS501B-o_C12075.jpg",
+    "images/yamaha-cd",
+    "images/yamaha-a-S501/g022AS501B-f.jpg",
+    "images/yamaha-a-S501/g022AS501B-b.jpg",
+    "Yamaha-CD-S303.md",
+    "Yamaha-A-S501.md",
+    "Pangea-Audio-Vulcan-Audio-Rack.md",
     "images/klipsch-reference-premiere-RP-8060FA/g714RP8060W-o_other7.jpg",
     "images/klipsch-reference-premiere-RP-8060FA/g714RP8060W-o_other4.jpg",
-    "images/klipsch-reference-premiere-RP-8060FA/g714RP8060W-o_other2.jpg",
-    "images/klipsch-reference-premiere-RP-8060FA/g714RP8060W-o_other0.jpg",
-    "images/klipsch-reference-premiere-RP-8060FA/g714RP8060W-F.jpg",
-    "images/klipsch-reference-premiere-RP-8060FA/g714RP8060W-B.jpg",
     "images/klipsch-reference-r-112sw",
     "images/cords",
     "images/technics-sl-1500c"
