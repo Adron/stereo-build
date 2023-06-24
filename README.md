@@ -9,12 +9,12 @@ With that I started looking into turn table specifications, purpose for various 
 Thus, many months ago, toward the end of 2022 I started looking into what parts I'd want for this stereo. The following, are the final set of gear and their marketing as advertised specifications as purchased from [Crutchfield](https://www.crutchfield.com/).
 
 * [Yamaha-CD-S303](Yamaha-CD-S303.md) (CD Player)
-* [Yamaha-A-S501]() (Amplifier)
-* [Technics-SL-1500C]() (Turntable *AKA* Phonograph *AKA* Record Player)
-* [Pangea-Audio-Vulcan-Audio-Rack]() (The rack it all sits on)
-* [Klipsch-Reference-Premiere-RP-8060FA]() (Floor speakers)
-* [Klipsch-Reference-R-112SW]() (Subwoofer)
-* Various cords: [SVS-SoundPath-RCA-Audio-Interconnect-Cable](), [Crutchfield-Speaker-Wire](), and  [AudioQuest-Evergreen]().
+* [Yamaha-A-S501](Yamaha-A-S501.md) (Amplifier)
+* [Technics-SL-1500C](Technics-SL-1500C.md) (Turntable *AKA* Phonograph *AKA* Record Player)
+* [Pangea-Audio-Vulcan-Audio-Rack](Pangea-Audio-Vulcan-Audio-Rack.md) (The rack it all sits on)
+* [Klipsch-Reference-Premiere-RP-8060FA](Klipsch-Reference-Premiere-RP-8060FA.md) (Floor speakers)
+* [Klipsch-Reference-R-112SW](Klipsch-Reference-R-112SW.md) (Subwoofer)
+* Various cords: [SVS-SoundPath-RCA-Audio-Interconnect-Cable](SVS-SoundPath-RCA-Audio-Interconnect-Cable.md), [Crutchfield-Speaker-Wire](Crutchfield-Speaker-Wire.md), and  [AudioQuest-Evergreen](AudioQuest-Evergreen.md).
 
 Check out the BLOG posts with VLOG posts here:
 * BLOG
