@@ -130,16 +130,16 @@ The SL-1500C's two-layer, die-cast aluminum chassis is integrated with a mixture
 
 **Anti-Resonance Rigid Chassis:** The SL-1500C direct drive turntable's aluminum die-cast chassis is rigidly integrated with a special material consisting of ABS mixed with glass fiber to achieve a two-layer construction. The insulator feet are comprised of a spring and rubber to provide optimal vibration-damping characteristics.
 
-![[g133SL1500S-M.jpg]]
+![Technics SL 1500C Turntable](images/technics-sl-1500c/g133SL1500S-M.jpg)
 
-![[g133SL1500S-o_other0.jpg]]
+![Technics SL 1500C Turntable](images/technics-sl-1500c/g133SL1500S-o_other0.jpg)
 
-![[g133SL1500S-o_other1.jpg]]
+![Technics SL 1500C Turntable](images/technics-sl-1500c/g133SL1500S-o_other1.jpg)
 
-![[g133SL1500S-o_other2.jpg]]
+![Technics SL 1500C Turntable](images/technics-sl-1500c/g133SL1500S-o_other2.jpg)
 
-![[g133SL1500S-o_other3.jpg]]
+![Technics SL 1500C Turntable](images/technics-sl-1500c/g133SL1500S-o_other3.jpg)
 
-![[g133SL1500S-o_other4.jpg]]
+![Technics SL 1500C Turntable](images/technics-sl-1500c/g133SL1500S-o_other4.jpg)
 
-![[g133SL1500S-o_other5.jpg]]
+![Technics SL 1500C Turntable](images/technics-sl-1500c/g133SL1500S-o_other5.jpg)

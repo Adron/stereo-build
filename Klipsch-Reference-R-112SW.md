@@ -29,12 +29,12 @@ Line-level and LFE (Low-Frequency Effects) inputs let you easily connect the R-1
 - [Our 60-day money-back guarantee](https://www.crutchfield.com/popups/guarantee.aspx)
 - MFR # 1060700
 
-![[g714R112SW-B-1.jpg]]
+![Klipsch Reference 1x12"](images/klipsch-reference-r-112sw/g714R112SW-B-1.jpg)
 
-![[g714R112SW-F.jpg]]
+![Klipsch Reference 1x12"](images/klipsch-reference-r-112sw/g714R112SW-F.jpg)
 
-![[g714R112SW-o_anglegrille.jpg]]
+![Klipsch Reference 1x12"](images/klipsch-reference-r-112sw/g714R112SW-o_anglegrille.jpg)
 
-![[g714R112SW-o_front.jpg]]
+![Klipsch Reference 1x12"](images/klipsch-reference-r-112sw/g714R112SW-o_front.jpg)
 
-![[g714R112SW-o_frontgrille.jpg]]
+![Klipsch Reference 1x12"](images/klipsch-reference-r-112sw/g714R112SW-o_frontgrille.jpg)

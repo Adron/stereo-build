@@ -145,10 +145,10 @@ Sub Output: A terminal for connecting a subwoofer is provided, allowing you to i
 
 Headphone Output: The A-S501 integrated amplifier is equipped with a front-panel 1/4" headphone output for connecting a pair of headphones (sold separately). When a set of headphones is plugged in, the speaker outputs are automatically muted.
 
-![](images/yamaha-a-S501/g022AS501B-b.jpg)
+![Power Amp](images/yamaha-a-S501/g022AS501B-b.jpg)
 
-![](images/yamaha-a-S501/g022AS501B-f.jpg)
+![Power Amp](images/yamaha-a-S501/g022AS501B-f.jpg)
 
-![](images/yamaha-a-S501/g022AS501B-o_C12075.jpg)
+![Power Amp](images/yamaha-a-S501/g022AS501B-o_C12075.jpg)
 
-![](images/yamaha-a-S501/g022AS501B-R.jpg)
+![Power Amp](images/yamaha-a-S501/g022AS501B-R.jpg)

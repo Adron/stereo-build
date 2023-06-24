@@ -34,6 +34,6 @@ This sub cable's solid brass connectors are plated in 24-karat gold for enhanced
 
 - 9.8' Subwoofer cable (terminated by a male mono-RCA connector on each end)
 
-![[g946SPRCA3M-o_other0.jpg]]
+![RCA Interconnect Cable](images/cords/g946SPRCA3M-o_other0.jpg)
 
-![[g946SPRCA3M-o_other1.jpg]]
+![RCA Interconnect Cable](images/cords/g946SPRCA3M-o_other1.jpg)

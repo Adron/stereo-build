@@ -45,3 +45,6 @@ The shelves are made of 5/8"-thick vibration-dampening MDF coated in scuff-resis
 - 12 Threaded posts
 - 12 Rubber washers
 - Assembly Instructions
+
+![Rack](images/rack/g325VULRKES-F.jpg)
+![Rack](images/rack/g325VULRKES-o_other0.jpg)

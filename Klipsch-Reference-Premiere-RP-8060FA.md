@@ -141,9 +141,9 @@ There's also an additional set of input terminals that connect to your receiver'
 
 **Optional Powered Sub:** For bigger & deeper bass response, pair the Klipsch Reference Premiere series loudspeaker with one of Klipsch's powered subwoofers (sold separately - click on Accessories Tab).
 
-![[images/klipsch-reference-premiere-RP-8060FA/g714RP8060W-o_other7.jpg]]
-![[images/klipsch-reference-premiere-RP-8060FA/g714RP8060W-B.jpg]]
-![[images/klipsch-reference-premiere-RP-8060FA/g714RP8060W-F.jpg]]
-![[images/klipsch-reference-premiere-RP-8060FA/g714RP8060W-o_other0.jpg]]
-![[images/klipsch-reference-premiere-RP-8060FA/g714RP8060W-o_other2.jpg]]
-![[images/klipsch-reference-premiere-RP-8060FA/g714RP8060W-o_other4.jpg]]
+![Klipsch Reference Premiere RP 8060FA](images/klipsch-reference-premiere-RP-8060FA/g714RP8060W-o_other7.jpg)
+![Klipsch Reference Premiere RP 8060FA](images/klipsch-reference-premiere-RP-8060FA/g714RP8060W-B.jpg)
+![Klipsch Reference Premiere RP 8060FA](images/klipsch-reference-premiere-RP-8060FA/g714RP8060W-F.jpg)
+![Klipsch Reference Premiere RP 8060FA](images/klipsch-reference-premiere-RP-8060FA/g714RP8060W-o_other0.jpg)
+![Klipsch Reference Premiere RP 8060FA](images/klipsch-reference-premiere-RP-8060FA/g714RP8060W-o_other2.jpg)
+![Klipsch Reference Premiere RP 8060FA](images/klipsch-reference-premiere-RP-8060FA/g714RP8060W-o_other4.jpg)

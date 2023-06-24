@@ -16,4 +16,4 @@ All the details of the cable's construction are well thought-out. For instance, 
 
 This cable is equipped with dual RCA connectors at each end. [Mini-to-mini](https://www.crutchfield.com/p_703EGMM2M/AudioQuest-Evergreen-2-meters-6-6-feet.html) and [mini-to-RCA](https://www.crutchfield.com/p_703EGMR2M/AudioQuest-Evergreen-2-meters-6-6-feet.html) versions are also available.
 
-![[g703EGRR2M-f.jpeg]]
+![Cords](images/cords/g703EGRR2M-f.jpeg)

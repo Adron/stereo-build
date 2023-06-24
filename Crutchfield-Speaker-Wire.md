@@ -15,6 +15,5 @@ The positive and negative speaker leads are independent from one another, and ar
 - [Our 60-day money-back guarantee](https://www.crutchfield.com/popups/guarantee.aspx)
 - MFR # BB-6FT
 
-![[g007CBB6-o.jpg]]
-
-![[g007CBB6-F.jpg]]
+![Cords](images/cords/g007CBB6-o.jpg)
+![Cords](images/cords/g007CBB6-F.jpg)
